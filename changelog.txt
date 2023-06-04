@@ -1,0 +1,9 @@
+﻿1. Now use baking blob asset store (not own)
+2. Skinned meshes now stored in dynamic buffer, not in native array
+3. Removed wtf hardcode animation params (direct indexes, predefined length)
+
+
+Running.
+
+Curves need for blending (transitions)
+EntitiesAnimationCurveLibrary  its required for run, create entity and add AnimationCurveAuthoring
